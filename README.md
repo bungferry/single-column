@@ -1,2 +1,2 @@
-# blur-image
-Blur Image
+# Single Column Template
+simple single column
